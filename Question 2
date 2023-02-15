@@ -1,0 +1,12 @@
+
+def count(input):
+
+    import collections
+
+    x=collections.Counter(input)
+
+    return x
+
+
+input1 = ['a', 'b', 'c', 'a', 'c', 'a', 'x']
+print(count(input1)) # should print {'a': 3, 'b': 1, 'c': 2, 'x': 1}
