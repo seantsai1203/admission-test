@@ -1,0 +1,9 @@
+1. What is Git and why is it used?
+
+Ans. Git 分散式版本控制系統
+
+     Git可記錄每個檔案是誰在何時新增、何時被修改或刪除，此外，在Git管理檔案，更新歷史會保存在Git，使用者不需要複製備用的檔案到本機才能動作
+
+2. What is the difference between List, Dictionary, Tuple and Set in Python?
+
+Ans. 在set集合裡, 裡面不出現重複的值, 其他list列表 Dict字典 Tuple元集都可以有重複的值
